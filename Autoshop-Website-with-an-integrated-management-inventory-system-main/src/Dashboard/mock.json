@@ -1,0 +1,32 @@
+[
+    {
+        "rimId": 123, 
+        "color": "rrr",
+        "dimensions":"256r",
+        "material": "jjjf",
+        "brand": "Ferrari",
+        "condition":"new",
+        "owner": "Delicate",
+        "comments": "it is mine only. do not touch it",
+        "location": "i do not know",
+        "date": "why do you care"
+        
+    },
+    {
+        "rimId": 1234, 
+        "color": "rrr",
+        "dimensions":"256r",
+        "material": "jjjf",
+        "brand": "Ferrari",
+        "condition":"new",
+        "owner": "Delicate",
+        "comments": "it is mine only. do not touch it",
+        "location": "i do not know",
+        "date": "why do you care"
+        
+    }
+    
+    
+   
+   
+  ]

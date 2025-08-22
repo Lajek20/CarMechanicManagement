@@ -1,0 +1,138 @@
+
+#Underheader {
+    list-style-type: none;
+    margin: 20px 0px 20px 0px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #F5F5F5;
+    /* color: #777777; */
+    display: flex;
+    align-items: center;
+
+}
+
+#background-underheader{
+    background-color: #F5F5F5;
+    padding: 10px 0px 10px 0px;
+}
+#Underheader h3 {
+    margin-left: 10%;
+    margin-right: auto;
+}
+
+#Underheader a {
+    text-decoration: none;
+    color: white;
+}
+
+#Underheader button {
+    text-decoration: none;
+    padding: 20px;
+    margin-left: 0%;
+    margin-right: auto;
+    color: white;
+    background-color: #1e69b8;
+}
+
+#Fordele {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#FordeleTekst{
+    display: flex;
+    justify-content: center;
+}
+
+.underheader-rows{
+    justify-content: space-around;
+    display: flex;
+}
+
+#Main_Image{
+    width: 10%;
+} 
+
+#underheader-text{
+    width: 15%;
+    text-align: center;
+}
+#underheader-line{
+    height: 3px;
+    width: 50%;
+    color: #85cdfa;
+    text-align: center;
+    margin-left: 25%;
+    opacity: 75;
+}
+#under-header-text{
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    line-height: 32px;
+    margin-top: 34px; 
+    text-align: center;
+}
+
+#underheader-line_title{
+    height: 3px;
+    width: 10%;
+    color: #85cdfa;
+    text-align: center;
+    margin-left: 45%;
+    opacity: 75;
+}
+#ViReparerAlleBiler {
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: space-between;
+}
+
+#ViReparerAlleBiler p {
+    /* border: 1px solid black; */
+    /*padding: 10px;*/
+    width: 600px;
+    height: 440px;
+    line-height: 28px;
+    white-space: pre-line;
+    font-size: 18px;
+    font-weight: 300;
+}
+#ViReparerAlleBiler h2{
+    font-weight: 300;
+    text-align: center;
+}
+
+#ViReparerAlleBiler2 {
+    display: flex;
+    justify-content: end;
+    width: 50%;
+}
+
+.container{
+    max-width: 1140px;
+    margin-top: 5%;
+}
+
+#partner{
+    max-width: 255px;
+}
+
+.partners .partner{
+    filter: grayscale(1);
+    opacity: .6;
+    transition: .3s filter, .3s opacity;
+}
+.partners .partner:hover{
+    filter: grayscale(0);
+    opacity: 1;
+}
+
+#underheader_linker{
+    text-decoration: none;
+    margin-left: 0%;
+    margin-right: auto;
+    color: white;
+}

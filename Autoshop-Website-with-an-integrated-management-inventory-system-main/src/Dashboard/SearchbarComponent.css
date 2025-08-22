@@ -1,0 +1,12 @@
+
+#Searchbar{
+display: flex;
+}
+
+#Searchbar input, button {
+  margin-right: 2px;
+}
+
+#dropdown-basic-button {
+  margin-right: 2px;
+}

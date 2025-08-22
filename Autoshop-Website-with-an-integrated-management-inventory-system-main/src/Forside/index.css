@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+#header {
+    padding-top: 8px;
+}
+
+#logo {
+    padding-left: 12px;
+    margin-right: 25%;
+}
+
+#header-image-menu {
+    position: relative;
+}
+
+#header-image-menu img {
+    width: 100%;
+    margin: none;
+    padding: none;
+}
+
+#forside_ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* background-color: #333; */
+    display: flex;
+    justify-content: center;
+}
+
+#Navigation a {
+    color: #85cdfa;
+    text-decoration: none;
+    display: flex;
+    padding-left: 17px;
+    padding-top: 23px;
+    margin-top: 50px;
+}
+#Navigation a:hover{
+    color: #1e69b8;
+    text-decoration: none;
+    display: flex;
+    padding-left: 17px;
+    padding-top: 23px;
+    margin-top: 50px;
+}
+#Navigation {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 2%;
+    margin-left: auto;
+    margin-bottom: 0.3%;
+}
+
+li a:hover {
+    color: #111;
+}
+
+#TopHeader {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #F5F5F5;
+    color: #777777;
+}
+/* Login */
+#loginButton {
+    width: 100px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 0%;
+}
+
+#ButtonLogin {
+    display: flex;
+    justify-content: center;
+}
+
+#ButtonLogin button {
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+    padding-left: 35%;
+    padding-right: 35%;
+    border-radius: 12px;
+}

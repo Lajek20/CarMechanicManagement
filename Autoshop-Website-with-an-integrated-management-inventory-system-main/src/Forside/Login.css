@@ -1,0 +1,107 @@
+    #Login{
+    display: flex;
+    height: 34px;
+    }
+
+#ul_loginInfo{
+  list-style: none;
+  margin-left: 7.5%;
+}
+#ul_loginInfo li{
+  float: left;
+  padding: 5px 5px;
+  border-right: 1px solid #E2E6E7;
+}
+
+#ul_loginInfo li:first-child{
+  border-left: 1px solid #E2E6E7;
+}
+
+#ul_loginInfo li a{
+  padding: 5px 10px 5px 5px;
+  
+}
+#phone_img{
+  margin-bottom: 3%;
+}
+    
+    #loginButton{
+      width: 100px;
+      height: 20px;
+      margin-left: auto;
+      margin-right: 20px;
+      color: #0d6efd;
+    }
+    #LoginForm{
+    justify-content: center;
+    margin: 14%;
+    border: 2px solid black;
+    padding: 135px;
+    }
+    
+    .logoForLoginform{
+      position: relative;
+      top: -70px;
+    }
+    
+    
+    #UsernameText{ 
+      display: flex;
+      justify-content: start;
+      margin-left: 17%;
+      margin-right: auto;
+    
+    }
+      
+    #loginUsername{
+      
+      justify-content: center;
+      border-radius: 12px;
+      padding-left: 35%;
+      padding-right: 35%;
+    }
+    
+    #loginUsername input{
+      padding-right: 80%;
+    }
+    
+    #loginPassword{
+      
+      justify-content: center;
+      padding-left: 35%;
+      padding-right: 35%;
+    }
+    #loginPassword input{
+      padding-right: 80%;
+    }
+    
+    #PasswordText{ 
+      
+      justify-content: start;
+      margin-left: 17%;
+      margin-right: auto;
+    }
+    
+    #ButtonLogin {
+      display: flex;
+      justify-content: center;
+    }
+    
+    #ButtonLogin button{
+      display: flex;
+      justify-content: center;
+      border: 2px solid black;
+      padding-left: 35%;
+      padding-right: 35%;
+      border-radius: 12px;
+    }
+    
+    #loginForside{
+    width: 100px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: 20px;
+    color: #0d6efd;
+    padding: 5px 5px;
+    }
+

@@ -1,0 +1,66 @@
+
+
+/* Dashboardet */
+#Dashboard{
+    display: flex;
+  height: 100vh;
+  }
+
+  .logo2 img{
+    width: 80%;
+  }
+
+  .sidebar img{
+    background-color: #111;
+    margin-top: 0px;
+  }
+
+
+
+
+
+  #SidebarMenu {
+
+    background-color: #111;
+    width: 300px;
+    padding-top: 3%;
+  }
+
+  #SidebarMenu a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+  }
+
+  #SidebarMenu a:hover {
+    color: #f1f1f1;
+  }
+
+  .sidebar .logo2{
+    color:white;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 65px;
+    text-align: center;
+   ;
+  }
+
+
+
+#TableButtonWrapper{
+  padding: 20px;
+}
+#Shelf-table{
+padding: 4px;
+}
+
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+
+
+
+  /* Dashboardet */
